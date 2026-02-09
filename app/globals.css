@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+body {
+  background: white;
+}
+.bg {
+  background-image: url(./img/show.png);
+  height: 658px;
+  background-size: cover;
+  border-radius: 50px;
+}
